@@ -1,3 +1,5 @@
+--Author: Justin Dorsey
+
 local Globals = require "src.Globals"
 local Push = require "libs.push"
 local Background = require "src.game.Background"
